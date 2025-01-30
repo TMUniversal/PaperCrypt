@@ -6,8 +6,8 @@ require (
 	github.com/ProtonMail/gopenpgp/v2 v2.7.5
 	github.com/boombuler/barcode v1.0.2
 	github.com/caarlos0/go-version v0.1.1
-	github.com/caarlos0/log v0.4.6
-	github.com/charmbracelet/lipgloss v0.12.1
+	github.com/caarlos0/log v0.4.8
+	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/jung-kurt/gofpdf/v2 v2.17.3
 	github.com/makiuchi-d/gozxing v0.1.1
 	github.com/manifoldco/promptui v0.9.0
@@ -22,10 +22,10 @@ require (
 	github.com/ProtonMail/go-crypto v1.0.0 // indirect
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
-	github.com/charmbracelet/x/ansi v0.1.4 // indirect
+	github.com/charmbracelet/x/ansi v0.4.2 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
 	github.com/cloudflare/circl v1.3.9 // indirect
-	github.com/elliotchance/orderedmap/v2 v2.2.0 // indirect
+	github.com/elliotchance/orderedmap/v2 v2.7.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
